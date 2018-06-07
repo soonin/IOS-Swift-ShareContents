@@ -12,6 +12,7 @@
 		FAD03A1720C9CE7B00BC4F2C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAD03A1520C9CE7B00BC4F2C /* Main.storyboard */; };
 		FAD03A1920C9CE7D00BC4F2C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAD03A1820C9CE7D00BC4F2C /* Assets.xcassets */; };
 		FAD03A1C20C9CE7D00BC4F2C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAD03A1A20C9CE7D00BC4F2C /* LaunchScreen.storyboard */; };
+		FAD03A2420C9D3AE00BC4F2C /* sharePdf.pdf in Resources */ = {isa = PBXBuildFile; fileRef = FAD03A2320C9D3AE00BC4F2C /* sharePdf.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FAD03A1820C9CE7D00BC4F2C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FAD03A1B20C9CE7D00BC4F2C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FAD03A1D20C9CE7D00BC4F2C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FAD03A2320C9D3AE00BC4F2C /* sharePdf.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = sharePdf.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				FAD03A1320C9CE7B00BC4F2C /* ViewController.swift */,
 				FAD03A1520C9CE7B00BC4F2C /* Main.storyboard */,
 				FAD03A1820C9CE7D00BC4F2C /* Assets.xcassets */,
+				FAD03A2320C9D3AE00BC4F2C /* sharePdf.pdf */,
 				FAD03A1A20C9CE7D00BC4F2C /* LaunchScreen.storyboard */,
 				FAD03A1D20C9CE7D00BC4F2C /* Info.plist */,
 			);
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FAD03A1C20C9CE7D00BC4F2C /* LaunchScreen.storyboard in Resources */,
+				FAD03A2420C9D3AE00BC4F2C /* sharePdf.pdf in Resources */,
 				FAD03A1920C9CE7D00BC4F2C /* Assets.xcassets in Resources */,
 				FAD03A1720C9CE7B00BC4F2C /* Main.storyboard in Resources */,
 			);
